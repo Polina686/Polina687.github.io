@@ -2,3 +2,5 @@
 
 [Морской бой](battleship.html)
 
+[Задание по Markdown](ABOUT_md.md]
+
